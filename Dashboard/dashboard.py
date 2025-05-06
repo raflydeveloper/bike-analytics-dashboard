@@ -8,7 +8,7 @@ from babel.numbers import format_currency
 sns.set_theme(style='dark')
 
 # Load dataset
-file_path = r"D:\Data_Analyst_Bike\all_data.csv"
+file_path = r"\Data_Analyst_Bike\Dashboard\all_data.csv"
 all_df = pd.read_csv(file_path)
 
 # Konversi dan urutkan tanggal
