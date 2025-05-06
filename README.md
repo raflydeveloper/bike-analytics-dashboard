@@ -34,4 +34,7 @@ How to Run the Notebook:
 - Install all the required libraries (for Jupyter Notebook).
 - Run all cells in the notebook.
 
+Important:
+- Ensure that the all_data.csv file is in the correct directory, or update the code's file_path to match the actual location of   
+  all_data.csv before running the dashboard
 
